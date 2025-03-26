@@ -6,10 +6,10 @@
 ---
 
 ## 🧑‍💻 Who Am I?  
-- 🔹 **Name:** Ikram R. (but I go by **4irh** everywhere—remember that)  
+- 🔹 **Name:** Ikram R. (but I go by **h4irh** everywhere—remember that)  
 - 🔹 **Age:** 17  
 - 🔹 **From:** Indonesia 🇮🇩  
-- 🔹 **Student:** Taking a **welding degree** (because welding metal is as cool as coding)  
+- 🔹 **Student:** Taking a **welding degree**  
 
 ## ⚡ Hobbies & Interests  
 - 💻 **Programming & Hacking** – If it's tech, I'm probably messing with it.  
